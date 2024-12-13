@@ -39,7 +39,7 @@ def display_left_content(image, prediction, probs, labels):
         """, unsafe_allow_html=True)
 
 def display_right_content(prediction, data):
-    st.write("### 음식의 성분   음식의 레시피")
+    st.write("### 음식의 성분    음식의 레시피")
     cols = st.columns(3)
 
     # 1st Row - Images
