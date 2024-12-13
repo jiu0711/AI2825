@@ -103,7 +103,7 @@ content_data = {
         ],
         'texts': [
             "어묵은 주로 연육으로 만들어지는데, 당근이나 양파 등이 들어가는 어묵도 있습니다.",
-            "맛있는 분식집 어묵꼬지 레시"
+            "맛있는 분식집 어묵꼬지 레시피"
         ]
     },
     labels[2]: {
@@ -117,9 +117,22 @@ content_data = {
         ],
         'texts': [
             "피자는 밀가루 반죽인 피자 도우, 베이컨과 토마토 소스, 각종 야채, 올리브, 피자의 종류에 따른 다양한 토핑이 들어갑니다.",
-            "맛있는 피자 레시"
+            "맛있는 피자 레시피"
         ]
-    }
+    },
+     labels[3]: {
+        'images': [
+            "hhttps://i.ibb.co/cvGXXft/output-2369372993.jpg",
+            "https://i.ibb.co/9qBdZK5/410-0023-0.jpg"
+        ],
+        'videos': [
+            "https://youtu.be/QZ7W1Er0-Gs?feature=shared",
+            "https://youtu.be/MWlHuWmnyek?feature=shared"
+        ],
+        'texts': [
+            "후라이드 치킨은 주재료인 닭, 튀김가루, 소금 등이 들어갑니다.",
+            "맛있는 후라이드 치킨 레시피"
+        ]
 }
 
 # 레이아웃 설정
