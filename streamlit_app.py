@@ -108,16 +108,16 @@ content_data = {
     },
     labels[2]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2"
+            "https://i.ibb.co/PDpkQc7/60398052.jpg",
+            "https://i.ibb.co/GWmpMKj/um-I-he-VYVS9mi-QNq-XM13-FRUOHHL4l1nzs-Zg-N9-XRLFG7n-I-7-Dyf-Myr6-Hmi-Wf9-Qd7-SAZQz3-WYSQHPXXt-GAw-L.webp"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://youtu.be/imemPs_j4gQ?feature=shared",
+            "https://youtu.be/jxVOPjOTKoo?feature=shared"
         ],
         'texts': [
-            "Label 3 관련 첫 번째 텍스트 내용입니다.",
-            "Label 3 관련 두 번째 텍스트 내용입니다."
+            "피자는 밀가루 반죽인 피자 도우, 베이컨과 토마토 소스, 각종 야채, 올리브, 피자의 종류에 따른 다양한 토핑이 들어갑니다.",
+            "맛있는 피자 레시"
         ]
     }
 }
