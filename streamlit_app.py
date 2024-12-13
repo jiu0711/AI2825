@@ -94,16 +94,16 @@ content_data = {
     },
     labels[1]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
-            "https://via.placeholder.com/300?text=Label2_Image2"
+            "https://i.ibb.co/RGnS8xy/20190221173302-8.png",
+            "https://i.ibb.co/hc15H7Z/1.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtu.be/KxVArmhyN2U?feature=shared",
+            "https://youtu.be/mJKVKTLN1CA?feature=shared"
         ],
         'texts': [
-            "Label 2 관련 첫 번째 텍스트 내용입니다.",
-            "Label 2 관련 두 번째 텍스트 내용입니다."
+            "어묵은 주로 연육으로 만들어지는데, 당근이나 양파 등이 들어가는 어묵도 있습니다.",
+            "맛있는 분식집 어묵꼬지 레시"
         ]
     },
     labels[2]: {
