@@ -122,7 +122,7 @@ content_data = {
     },
      labels[3]: {
         'images': [
-            "hhttps://i.ibb.co/cvGXXft/output-2369372993.jpg",
+            "https://i.ibb.co/cvGXXft/output-2369372993.jpg",
             "https://i.ibb.co/9qBdZK5/410-0023-0.jpg"
         ],
         'videos': [
