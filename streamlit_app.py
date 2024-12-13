@@ -9,8 +9,8 @@ import gdown
 file_id = '1k0EEHiTj_oLUbfr3oFY5c0bm4Plk4uX0'
 
 # Google Drive에서 파일 다운로드 함수
-#@st.cache(allow_output_mutation=True)
-st.cache_resource
+@st.cache(allow_output_mutation=True)
+#st.cache_resource
 
 def load_model_from_drive(file_id):
     url = f'https://drive.google.com/uc?id={file_id}'
