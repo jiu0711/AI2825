@@ -86,12 +86,12 @@ content_data = {
         ],
         'videos': [
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+            "https://youtu.be/QNipXG5LPik?feature=shared",
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "Label 1 관련 첫 번째 텍스트 내용입니다.",
-            "Label 1 관련 두 번째 텍스트 내용입니다.",
+            "떡볶이에는 밀떡 또는 쌀떡, 파, 고추장, 마늘, 양파, 고춧가루 등이 들어갑니다.",
+            "맛있는 떡볶이 레시",
             "Label 1 관련 세 번째 텍스트 내용입니다."
         ]
     },
