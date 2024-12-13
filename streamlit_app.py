@@ -20,7 +20,7 @@ def load_model_from_drive(file_id):
     return learner
 
 def display_left_content(image, prediction, probs, labels):
-    st.write("### 음식 이름")
+    st.write("### 음식의 이름")
     if image is not None:
         st.image(image, caption="업로드된 이미지", use_column_width=True)
     st.write(f"예측된 클래스: {prediction}")
