@@ -81,7 +81,7 @@ content_data = {
     labels[0]: {
         'images': [
             "https://i.ibb.co/DrXkGH6/52007-52699-1320.jpg",
-            "https://via.placeholder.com/300?text=Label1_Image2"
+            "https://i.ibb.co/gv5pwPx/image.png"
         ],
         'videos': [
             "https://youtu.be/k7Cg3w_-FFM?feature=shared",
