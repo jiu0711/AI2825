@@ -81,52 +81,43 @@ content_data = {
     labels[0]: {
         'images': [
             "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://via.placeholder.com/300?text=Label1_Image2"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://youtu.be/QNipXG5LPik?feature=shared",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtu.be/k7Cg3w_-FFM?feature=shared",
+            "https://youtu.be/QNipXG5LPik?feature=shared"
         ],
         'texts': [
             "떡볶이에는 밀떡 또는 쌀떡, 파, 고추장, 마늘, 양파, 고춧가루 등이 들어갑니다.",
-            "맛있는 떡볶이 레시피",
-            "Label 1 관련 세 번째 텍스트 내용입니다."
+            "맛있는 떡볶이 레시피"
         ]
     },
     labels[1]: {
         'images': [
             "https://via.placeholder.com/300?text=Label2_Image1",
-            "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
+            "https://via.placeholder.com/300?text=Label2_Image2"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
             "Label 2 관련 첫 번째 텍스트 내용입니다.",
-            "Label 2 관련 두 번째 텍스트 내용입니다.",
-            "Label 2 관련 세 번째 텍스트 내용입니다."
+            "Label 2 관련 두 번째 텍스트 내용입니다."
         ]
     },
     labels[2]: {
         'images': [
             "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
+            "https://via.placeholder.com/300?text=Label3_Image2"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
             "Label 3 관련 첫 번째 텍스트 내용입니다.",
-            "Label 3 관련 두 번째 텍스트 내용입니다.",
-            "Label 3 관련 세 번째 텍스트 내용입니다."
+            "Label 3 관련 두 번째 텍스트 내용입니다."
         ]
     }
 }
